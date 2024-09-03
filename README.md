@@ -13,8 +13,13 @@
 
 ## 🚀 Projects
 - **Dhanvantri App:** An Android application that helps users identify medicinal plants using machine learning and retrieve medicinal uses and properties.
+- Integrated a CHATBOT to assist users with their queries related to the app and plants.
+ 
 - **TaskMaster App:** An Android application designed to help users organize their tasks and projects efficiently.
-- **Blog Application:** A blog platform built with Spring Boot, Spring Security, and MongoDB that features user authentication, category, posts and role management, and comment functionality.
+ 
+- **Blog Application:** A blog platform built with Spring Boot, Spring Security, and MongoDB that features user authorization and authentication, category, posts and role management, and comment functionality.
+ - Secured endpoints with JWT based authentication. 
+ - Implemented CACHING mechanism using REDIS, CONTENT MODERATION, and RATE LIMITING to prevent abuse of the API.
 
 ## 📫 How to Reach Me
 - Email: [pratapsinghanand810@gamil.com](mailto:pratapsinghanand810@gamil.com)
