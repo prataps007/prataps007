@@ -9,7 +9,7 @@
 - **Frameworks:** Spring, Spring Boot, Android
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, Postman, IntelliJ IDEA, VS Code, Android Studio
-- **Other:** REST APIs, Data Structure and Algorithms
+- **Other:** REST APIs, Microservices, Data Structure and Algorithms
 
 ## 🚀 Projects
 - **Dhanvantri App:**
